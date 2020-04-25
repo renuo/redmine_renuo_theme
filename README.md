@@ -1,6 +1,8 @@
-# PurpleMine 2
+# RenuoMine
 
-A free Redmine 3.0+ theme written in SCSS.
+Forked from: https://github.com/mrliptontea/PurpleMine2
+
+And adapted to match Renuo.
 
 ![The MIT License](https://img.shields.io/badge/license-MIT-584492.svg) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) ![Run linters](https://github.com/mrliptontea/PurpleMine2/workflows/Run%20linters/badge.svg) [![Issues](https://img.shields.io/github/issues/mrliptontea/PurpleMine2.svg)](https://github.com/mrliptontea/PurpleMine2/issues)
 
@@ -12,13 +14,13 @@ It's written in [SCSS]. It uses [normalize.css] and benefits from some parts of 
 
 ## Main features
 
-* Bigger, easier to read fonts,
-* Github-like wiki content look,
-* Sidebar moved to the left for better ergonomy,
-* Coloring trackers links (on lists, issue pages and even in the wiki content),
-* Highlighting issues priority on the list and on the issue page,
-* Toggling sidebar visibility,
-* Easy to customize via variables.
+- Bigger, easier to read fonts,
+- Github-like wiki content look,
+- Sidebar moved to the left for better ergonomy,
+- Coloring trackers links (on lists, issue pages and even in the wiki content),
+- Highlighting issues priority on the list and on the issue page,
+- Toggling sidebar visibility,
+- Easy to customize via variables.
 
 ## How install it
 
@@ -56,7 +58,7 @@ If you need to customize styles for [Redmine Backlogs][redmine_backlogs] remembe
 
 [Changelog](./CHANGELOG.md).
 
-[SCSS]: http://sass-lang.com/
+[scss]: http://sass-lang.com/
 [normalize.css]: https://github.com/necolas/normalize.css
 [bootstrap-sass]: https://github.com/twbs/bootstrap-sass
 [redmine_backlogs]: https://github.com/backlogs/redmine_backlogs
