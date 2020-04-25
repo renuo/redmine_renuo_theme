@@ -16,7 +16,7 @@ It's written in [SCSS]. It uses [normalize.css] and benefits from some parts of 
 * Github-like wiki content look,
 * Sidebar moved to the left for better ergonomy,
 * Coloring trackers links (on lists, issue pages and even in the wiki content),
-* Jira-inspired priority icons,
+* Highlighting issues priority on the list and on the issue page,
 * Toggling sidebar visibility,
 * Easy to customize via variables.
 
