@@ -1,9 +1,9 @@
 @import "variables";
 @import "mixins";
+@import "theme_overrides";
 
 @import "lib/normalize";
 @import "lib/font-awesome";
-
 
 //== Redmine's core elements
 //
@@ -39,12 +39,10 @@
 @import "components/responsive";
 @import "components/print";
 
-
 //== Tweaks for plugins
 //
 
 @import "components/plugins";
-
 
 //== Built-in JavaScript plugins
 //
