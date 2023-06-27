@@ -12,3 +12,16 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("#{$fa-font-path}/Montserrat-Light.eot");
+  src: url("#{$fa-font-path}/Montserrat-Light.woff2") format("woff2"),
+  url("#{$fa-font-path}/Montserrat-Light.woff") format("woff"),
+  url("#{$fa-font-path}/Montserrat-Light.ttf") format("truetype"),
+  url("#{$fa-font-path}/Montserrat-Light.svg#Montserrat-Light") format("svg"),
+  url("#{$fa-font-path}/Montserrat-Light.eot?#iefix") format("embedded-opentype"),
+  url("#{$fa-font-path}/Montserrat-Light.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
