@@ -1,7 +1,7 @@
 # RenuoMine
 
 > [!NOTE]
-> For Redmine >= 6, use [edmine_renuo_theme_opale](https://github.com/renuo/redmine_renuo_theme_opale)
+> For Redmine >= 6, use [redmine_renuo_theme_opale](https://github.com/renuo/redmine_renuo_theme_opale)
 
 Forked from: https://github.com/mrliptontea/PurpleMine2
 
